@@ -1,0 +1,4 @@
+1 O código pode falhar, mas a persistência não.
+2 Cada erro é só um debug disfarçado.
+3 Pequenos commits constroem grandes projetos.
+4 Se funciona, documenta. Se não funciona, testa de novo.
